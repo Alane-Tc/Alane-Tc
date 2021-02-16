@@ -6,7 +6,7 @@
 
 ------------
 
-<h3 align="center"> 👨‍💻 Proyectos 💻 </h3>
+<h3 align="center">Proyectos 💻</h3>
 
 [![](https://img.shields.io/badge/Proyecto1-FormatoApa-greene?style=for-the-badge)](https://formatoapa.netlify.app/) [![](https://img.shields.io/badge/Proyecto2-QueGeneracionEres-green?style=for-the-badge)](https://quegeneracioneres.netlify.app/) 
 
