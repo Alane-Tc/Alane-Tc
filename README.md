@@ -6,7 +6,7 @@
 
 ------------
 
-<h3 align="center">Proyectos 💻</h3>
+<h2 align="center">Proyectos 💻</h2>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 
 ------------
- <h3 align="center"> 👨‍💻 Habilidades </h3>
+ <h2 align="center"> 👨‍💻 Habilidades </h2>
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alane-Tc&langs_count=8)](https://github.com/Alane-Tc) </div>
 
 ---
-<h3 align="center"> ✉ Contacto </h3>
+<h2 align="center"> ✉ Contacto </h2>
 
 <div align="center">
 
