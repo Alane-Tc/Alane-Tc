@@ -8,11 +8,14 @@
 
 <h3 align="center">Proyectos 💻</h3>
 
-[![](https://img.shields.io/badge/Proyecto1-FormatoApa-greene?style=for-the-badge)](https://formatoapa.netlify.app/) [![](https://img.shields.io/badge/Proyecto2-QueGeneracionEres-green?style=for-the-badge)](https://quegeneracioneres.netlify.app/) 
+<div align="center">
 
-[![](https://img.shields.io/badge/Proyecto3-Animals--App-green?style=for-the-badge)](https://animalsapp.netlify.app/) [![](https://img.shields.io/badge/Proyecto4-Color--Generator-green?style=for-the-badge)](https://generadordecolores.netlify.app/) 
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=FormatoApa)](https://github.com/Alane-Tc/FormatoApa) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=FormatoApaDesktop)](https://github.com/Alane-Tc/FormatoApaDesktop) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=QueGeneracionEres)](https://github.com/Alane-Tc/QueGeneracionEres) |
+| ------------ | ------------ | ------------ |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=Animals-App)](https://github.com/Alane-Tc/Animals-App)  |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=Color-Generator)](https://github.com/Alane-Tc/Color-Generator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=Solar-System-Planets)](https://github.com/Alane-Tc/Solar-System-Planets)|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=Contactos_App)](https://github.com/Alane-Tc/Contactos_App)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=Clikeame-Esta)](https://github.com/Alane-Tc/Clikeame-Esta)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alane-Tc&repo=Clikeame-EstaDesktop)](https://github.com/Alane-Tc/Clikeame-EstaDesktop)  |
 
-[![](https://img.shields.io/badge/Proyecto5-FormatoApaDesktop-green?style=for-the-badge)](https://github.com/Alane-Tc/FormatoApaDesktop) 
+ </div>
 
 
 ------------
