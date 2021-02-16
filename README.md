@@ -1,4 +1,4 @@
-# <img alt="Logo" width="100px" src="https://github.com/Alane-Tc/Alane-Tc/blob/main/src/img/avataaars.png?raw=true" /> ✌ Hola mundo ✌
+# <img alt="Logo" width="100px" src="https://github.com/Alane-Tc/Alane-Tc/blob/main/src/img/avataaars.png?raw=true" />  Hello World :earth_americas: 
 
 <div align="center">
 <img src="https://media.giphy.com/media/TIejJSkHLZh4s/giphy.gif">
@@ -6,7 +6,7 @@
 
 ------------
 
-<h2 align="center">Proyectos 💻</h2>
+<h1 align="center">Projects 💻</h1>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 
 ------------
- <h2 align="center"> 👨‍💻 Habilidades </h2>
+ <h1 align="center">Skills 👨‍💻 </h1>
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alane-Tc&langs_count=8)](https://github.com/Alane-Tc) </div>
 
 ---
-<h2 align="center"> ✉ Contacto </h2>
+<h1 align="center">Contact me ✉ </h1>
 
 <div align="center">
 
